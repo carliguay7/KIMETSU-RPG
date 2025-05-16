@@ -8,3 +8,4 @@ HUD: En el HUD de la partida, tens el HP (la teva vida), les vides extra que ten
 Menú: Al principi de tot surt el títol (KIMETSU RPG), el botó núm. 1 per entrar al joc, el botó núm. 2 per entrar als credirs, el núm. 3 per sortir i també té el botó per encendre i apagar la música.
 
 CONTROLS: per moure't "WASD" i les fletxetes. Quan entres en combat tens dues opcions (atacar i curar-se) que has de seleccionar amb les fletxetes i acceptar amb l'Enter.
+
